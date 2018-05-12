@@ -1,0 +1,46 @@
+_repo: Les-mille-et-une-nuitscontes-choisis_35969
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Durand, Godefroy
+    gutenberg_agent_id: '38006'
+    url: http://www.gutenberg.org/2009/agents/38006
+  translator:
+    agent_name: Galland, Antoine
+    birthdate: 1646
+    deathdate: 1715
+    gutenberg_agent_id: '31901'
+    url: http://www.gutenberg.org/2009/agents/31901
+    wikipedia: http://en.wikipedia.org/wiki/Antoine_Galland
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_bookshelf: FR Contes
+gutenberg_issued: '2011-04-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35969'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PJ'
+- !lcsh 'Fairy tales'
+- !lcsh 'Tales -- Arab countries'
+tableOfContents: Les mille et une Nuits -- Le Marchand et le Génie -- Histoire du
+  premier Vieillard et de la Biche -- Histoire du second Vieillard et des deux Chiens
+  noirs -- Histoire du Pêcheur -- Histoire du jeune Roi des îles Noires -- Histoire
+  de trois Calenders, fils de Roi, et de cinq dames de Bagdad -- Histoire du premier
+  Calender, fils de roi -- Histoire du second Calender, fils de roi -- Histoire du
+  troisième Calender, fils de roi -- Histoire de Zobéide -- Histoire de Sindbad le
+  marin -- Premier voyage de Sindbad le marin -- Second voyage de Sindbad le marin
+  -- Troisième voyage de Sindbad le marin -- Quatrième voyage de Sindbad le marin
+  -- Cinquième voyage de Sindbad le marin -- Sixième voyage de Sindbad le marin --
+  Septième et dernier voyage de Sindbad le marin -- Histoire du petit Bossu -- Histoire
+  racontée par le pourvoyeur du sultan de Casgar -- Histoire que raconta le Tailleur
+  -- Histoire du Barbier -- Histoire d'Aladdin ou la Lampe merveilleuse -- Histoire
+  d'Ali-Baba et de quarante voleurs exterminés par une esclave.
+title: 'Les mille et une nuits: contes choisis'
+url: http://www.gutenberg.org/ebooks/35969
