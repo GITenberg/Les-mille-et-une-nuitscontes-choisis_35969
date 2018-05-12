@@ -16,6 +16,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35969#Les-mille-et-une-nuitscontes-choisis
 gutenberg_bookshelf: FR Contes
 gutenberg_issued: '2011-04-26'
 gutenberg_type: Text
